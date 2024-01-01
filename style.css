@@ -1,17 +1,13 @@
 * {
-    
     padding: 0;
     margin: 0;
-    color: black;
+    color: white;
 }
 
 #navbar {
     background-color: #0f1111;
-    height: 60px;   
-}
+    height: 60px;
 
-.navbar {
-    color: white;
 }
 
 #logo {
@@ -27,42 +23,3 @@ a {
     padding-right: 200px;
     text-decoration: none;
 }
-.contents {
-    height: 100px;
-    width: 100px;
-    border: 2px solid black;
-    display: inline-block;
-    text-align: center;
-    position: relative;
-    top: 2px;
-}
-
-#content1 {   
-    background-color: rgba(00, 00, 255, 0.40);
-    height: 50%;
-    width: 11rem;
-}
-
-#content2 {
-    background-color: rgba(255, 00, 00, 0.30);
-    height: 5rem;
-    width: 50%;
-}
-
-#content3 {
-    background-color: rgba(00, 255, 00, 0.30); 
-    height: 10em;
-    width: 30em;
-}
-
-#content {
-    height: 700px;
-}
-
-footer {
-    background-color: #0f1111;
-    color: white;
-    text-align: center;
-}
-
-
